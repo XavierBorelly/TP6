@@ -9,6 +9,6 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/des_jeu_de_roles" />
+        android:background="@drawable/github_mark" />
 
 </LinearLayout>
