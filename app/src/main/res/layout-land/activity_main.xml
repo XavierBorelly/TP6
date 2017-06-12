@@ -4,11 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.admin.tpimage.MainActivity">
+    tools:context="com.example.admin.tpimage.MainActivity"
+    android:orientation="vertical">
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/des_jeu_de_roles" />
+        android:background="@drawable/github_mark" />
 
 </LinearLayout>
